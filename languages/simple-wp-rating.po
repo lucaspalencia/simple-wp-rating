@@ -1,0 +1,44 @@
+# Copyright (C) 2016 Lucas Palencia
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple WP Rating 1.0.0\n"
+"POT-Creation-Date: 2016-03-14 09:19-0300\n"
+"PO-Revision-Date: 2016-03-14 09:53-0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: pt_BR\n"
+
+#: simple-wp-rating.php:91
+msgid "Rating"
+msgstr ""
+
+#: simple-wp-rating.php:269
+msgid "Previous page"
+msgstr ""
+
+#: simple-wp-rating.php:270
+msgid "Next page"
+msgstr ""
+
+#: admin/admin.php:3
+msgid "Simple WP Rating Settings"
+msgstr ""
+
+#: admin/admin.php:11
+msgid "Posts per page"
+msgstr ""
+
+#: admin/admin.php:19
+msgid "Update post rating only when comment is approved"
+msgstr ""
+
+#: admin/admin.php:32
+msgid "Save changes"
+msgstr ""

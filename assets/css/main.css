@@ -1,0 +1,66 @@
+.swr-stars {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+.swr-stars-form input {
+  display: none;
+}
+.swr-stars > span, .swr-stars-form > span {
+  display: inline-block;
+  position: relative;
+  width: 30px;
+}
+.swr-stars > span:hover:before,
+.swr-stars > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+   color: gold;
+}
+
+.swr-stars-form > span:hover:before,
+.swr-stars-form > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+   color: gold;
+}
+
+.swr-stars .swr-star, .swr-stars-form .swr-star {
+   color: gold;
+   font-size: 24px;
+}
+
+.swr-stars span.active:before {
+   content: "\2605";
+   position: absolute;
+   color: gold;
+}
+
+.swr-stars-form {
+   text-align: left;
+}
+
+.swr-stars-single {
+  text-align: left;
+}
+
+.swr-stars-form .swr-star {
+   cursor: pointer;
+   width: 25px;
+}
+
+.swr-post-thumbnail {
+  display: inline-block !important;
+  text-decoration: none;
+  box-shadow: none !important;
+}
+
+.swr-pagination {
+  text-align: center;
+}
+.swr-pagination li {
+  display: inline-block;
+  vertical-align: top;
+}
+.swr-pagination .swr-previous-link {
+  margin-right: 50px;
+}
