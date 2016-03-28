@@ -11,7 +11,7 @@ WordPress Plugin for rating posts and order by average rating.
 ## Admin Options (Tools -> Simple WP Rating): ##
 
 * Posts per page for swr_posts shortcode / swr_get_posts method. (default: 10)
-* Update post rating only when comment is approved: The post rating only will be update after comment is approved by admin. (default: false)
+* Update post rating only when comment is approved: The post rating will be updated only after comment get approved by admin. (default: false)
 
 ## Display posts by rating ##
 
